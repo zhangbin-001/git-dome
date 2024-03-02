@@ -5,12 +5,11 @@ hello qiuzhile! hello get! master modify
 hello qiuzhile! hello get! master modify 
 hello qiuzhile! hello get!
 hello qiuzhile! hello get!
-hello qiuzhile! hello get! master modify
-hello qiuzhile! hello get! master modify
+hello qiuzhile! hello get! hot-fix modify 
 hello qiuzhile! hello get!
 hello qiuzhile! hello get!
 hello qiuzhile! hello get!
-hello qiuzhile! hello get!
+hello qiuzhile! hello get! hot-fix modify
 hello qiuzhile! hello get!
 hello qiuzhile! hello get! master modify
 hello qiuzhile! hello get! 
