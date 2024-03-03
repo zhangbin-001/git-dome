@@ -13,4 +13,5 @@ hello qiuzhile! hello get! hot-fix modify
 hello qiuzhile! hello get!
 hello qiuzhile! hello get! master modify
 hello qiuzhile! hello get! 
-qiuzhile添加内容！
+这个是qiuzhile在线添加的内容！
+这个是qiuzhile本地添加的内容！
