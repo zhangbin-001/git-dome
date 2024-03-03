@@ -15,3 +15,5 @@ hello qiuzhile! hello get! master modify
 hello qiuzhile! hello get! 
 这个是qiuzhile在线添加的内容！
 这个是qiuzhile本地添加的内容！
+
+这个是zhangbin在本地添加的内容！
